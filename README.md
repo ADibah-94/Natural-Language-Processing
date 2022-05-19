@@ -13,4 +13,4 @@ Checkout for data at
 https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv
 
 
-![image](Model's Architecture.png) 
+![image](Model'sArchitecture.png) 
